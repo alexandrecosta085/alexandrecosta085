@@ -53,6 +53,8 @@ Mini jogo em JavaScript puro onde o jogador enfrenta um dragão em batalhas por 
 ## 📫 Como me encontrar
 
 - 💼 [GitHub](https://github.com/alexandrecosta085)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-costa085)
+- 📸 [Instagram](https://www.instagram.com/xandy_costa1)
 
 ---
 
